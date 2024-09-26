@@ -1,0 +1,30 @@
+body {
+  font-family: 'Helvetica Neue', 'Helvetica', sans-serif;
+  background-color: rgb(199, 205, 209);
+}
+
+h1{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 400;
+}
+
+.socialmediaicons ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.socialmediaicons ul li {
+  display: inline-block;
+  margin-left: 5px;
+}
+
+.socialmediaicons ul li img {
+  width: 30px;
+  border-radius: 50%;
+}
+
+.socialmediaicons{
+	text-align: center;
+}
